@@ -1,0 +1,2 @@
+label1=hello
+label2=world
